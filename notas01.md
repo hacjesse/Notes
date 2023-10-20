@@ -1,1 +1,0 @@
-# Exemplo de espaço de anotações.
